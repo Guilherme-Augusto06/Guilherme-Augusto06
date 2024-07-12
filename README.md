@@ -17,6 +17,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div></br>
 
 Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonado por tecnologias e sempre em busca de novos desafios e aprendizados. Tenho experiência tanto em backend quanto em frontend, e minha base de conhecimento baseia-se nas seguintes linguagens de programação:
