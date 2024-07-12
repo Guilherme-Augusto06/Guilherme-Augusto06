@@ -20,7 +20,7 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div></br>
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonado por tecnologias e sempre em busca de novos desafios e aprendizados. Tenho experiência tanto em backend quanto em frontend, e sou proficiente nas seguintes linguagens de programação:
+Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonado por tecnologias e sempre em busca de novos desafios e aprendizados. Tenho experiência tanto em backend quanto em frontend, e minha base de conhecimento baseia-se nas seguintes linguagens de programação:
 
 - **Python**
 - **Java**
