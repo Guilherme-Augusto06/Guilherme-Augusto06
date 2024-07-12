@@ -19,3 +19,15 @@
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+Sou estudante de Desenvolvimento de Sistemas no SENAI, apaixonado por tecnologias e sempre em busca de novos desafios e aprendizados. Tenho experiência tanto em backend quanto em frontend, e sou proficiente nas seguintes linguagens de programação:
+
+- **Python**
+- **Java**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+Além disso, possuo conhecimentos sólidos em banco de dados SQL. Meu objetivo é criar soluções eficientes e inovadoras que possam impactar positivamente o mundo ao nosso redor.
+
+No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado e crescimento no desenvolvimento de sistemas. Estou sempre aberto a colaborações e a explorar novas oportunidades no mundo da tecnologia.
