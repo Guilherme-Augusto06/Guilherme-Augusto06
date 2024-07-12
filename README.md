@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/26dd5ccf-5268-4fae-91f6-f6a897d0f671)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Augusto06&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Augusto06&hide_progress=true)
 ### Tecnologias que utilizo 
 
 <div style="display: inline_block"><br/>
