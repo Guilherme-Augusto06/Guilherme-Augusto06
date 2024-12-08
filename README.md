@@ -40,7 +40,7 @@
 ### Profiles:
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-augusto-490685236/)
 [![blog](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/26dd5ccf-5268-4fae-91f6-f6a897d0f671)
-[![blog](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/guilherme-augusto.1c87f496)
+[![Credly](https://img.shields.io/badge/Credly-Perfil_Ativo-blue?logo=credly&style=for-the-badge)](https://www.credly.com/users/guilherme-augusto.1c87f496)
 
 
 <div align="center">
